@@ -1,0 +1,4 @@
+parameter,value
+alpha,0.7146508199162339
+l1_ratio,0.9255565820069263
+scaler,robust

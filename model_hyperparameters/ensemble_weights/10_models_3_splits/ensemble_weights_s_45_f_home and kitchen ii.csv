@@ -1,0 +1,11 @@
+model,weight
+w_holt_winters_full,0.209458883921357
+w_holt_winters_cleaned,0.061858776937233434
+w_rf_without_lags,0.08588341101534176
+w_rf_with_lags,0.00521570504239936
+w_knn_without_lags,0.25178359448963256
+w_knn_with_lags,0.03590513224724454
+w_xgb_without_lags,0.2539200334763345
+w_xgb_with_lags,0.033374202130688375
+w_lgbm_without_lags,0.014151960307734242
+w_lgbm_with_lags,0.048448300432034186

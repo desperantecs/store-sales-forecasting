@@ -1,0 +1,1687 @@
+store_nbr,family
+1,Automotive
+1,Beauty
+1,Beverages
+1,Books
+1,Bread/bakery
+1,Celebration
+1,Cleaning
+1,Dairy
+1,Deli
+1,Eggs
+1,Frozen foods
+1,Grocery i
+1,Grocery ii
+1,Hardware
+1,Home and kitchen i
+1,Home and kitchen ii
+1,Home appliances
+1,Home care
+1,Ladieswear
+1,Lawn and garden
+1,Lingerie
+1,"Liquor,wine,beer"
+1,Magazines
+1,Meats
+1,Personal care
+1,Pet supplies
+1,Players and electronics
+1,Poultry
+1,Prepared foods
+1,Produce
+1,Seafood
+2,Automotive
+2,Beauty
+2,Beverages
+2,Bread/bakery
+2,Celebration
+2,Cleaning
+2,Dairy
+2,Deli
+2,Eggs
+2,Frozen foods
+2,Grocery i
+2,Grocery ii
+2,Hardware
+2,Home and kitchen i
+2,Home and kitchen ii
+2,Home appliances
+2,Home care
+2,Ladieswear
+2,Lawn and garden
+2,Lingerie
+2,"Liquor,wine,beer"
+2,Magazines
+2,Meats
+2,Personal care
+2,Pet supplies
+2,Players and electronics
+2,Poultry
+2,Prepared foods
+2,Produce
+2,Seafood
+3,Automotive
+3,Baby care
+3,Beauty
+3,Beverages
+3,Bread/bakery
+3,Celebration
+3,Cleaning
+3,Dairy
+3,Deli
+3,Eggs
+3,Frozen foods
+3,Grocery i
+3,Grocery ii
+3,Hardware
+3,Home and kitchen i
+3,Home and kitchen ii
+3,Home appliances
+3,Home care
+3,Ladieswear
+3,Lawn and garden
+3,Lingerie
+3,"Liquor,wine,beer"
+3,Magazines
+3,Meats
+3,Personal care
+3,Pet supplies
+3,Players and electronics
+3,Poultry
+3,Prepared foods
+3,Produce
+3,School and office supplies
+3,Seafood
+4,Automotive
+4,Baby care
+4,Beauty
+4,Beverages
+4,Books
+4,Bread/bakery
+4,Celebration
+4,Cleaning
+4,Dairy
+4,Deli
+4,Eggs
+4,Frozen foods
+4,Grocery i
+4,Grocery ii
+4,Hardware
+4,Home and kitchen i
+4,Home and kitchen ii
+4,Home appliances
+4,Home care
+4,Ladieswear
+4,Lawn and garden
+4,Lingerie
+4,"Liquor,wine,beer"
+4,Magazines
+4,Meats
+4,Personal care
+4,Pet supplies
+4,Players and electronics
+4,Poultry
+4,Prepared foods
+4,Produce
+4,School and office supplies
+4,Seafood
+5,Automotive
+5,Baby care
+5,Beauty
+5,Beverages
+5,Bread/bakery
+5,Celebration
+5,Cleaning
+5,Dairy
+5,Deli
+5,Eggs
+5,Frozen foods
+5,Grocery i
+5,Grocery ii
+5,Hardware
+5,Home and kitchen i
+5,Home and kitchen ii
+5,Home appliances
+5,Home care
+5,Ladieswear
+5,Lawn and garden
+5,Lingerie
+5,"Liquor,wine,beer"
+5,Magazines
+5,Meats
+5,Personal care
+5,Pet supplies
+5,Players and electronics
+5,Poultry
+5,Prepared foods
+5,Produce
+5,School and office supplies
+5,Seafood
+6,Automotive
+6,Baby care
+6,Beauty
+6,Beverages
+6,Bread/bakery
+6,Celebration
+6,Cleaning
+6,Dairy
+6,Deli
+6,Eggs
+6,Frozen foods
+6,Grocery i
+6,Grocery ii
+6,Hardware
+6,Home and kitchen i
+6,Home and kitchen ii
+6,Home appliances
+6,Home care
+6,Ladieswear
+6,Lawn and garden
+6,Lingerie
+6,"Liquor,wine,beer"
+6,Magazines
+6,Meats
+6,Personal care
+6,Pet supplies
+6,Players and electronics
+6,Poultry
+6,Prepared foods
+6,Produce
+6,Seafood
+7,Automotive
+7,Baby care
+7,Beauty
+7,Beverages
+7,Books
+7,Bread/bakery
+7,Celebration
+7,Cleaning
+7,Dairy
+7,Deli
+7,Eggs
+7,Frozen foods
+7,Grocery i
+7,Grocery ii
+7,Hardware
+7,Home and kitchen i
+7,Home and kitchen ii
+7,Home appliances
+7,Home care
+7,Ladieswear
+7,Lawn and garden
+7,Lingerie
+7,"Liquor,wine,beer"
+7,Magazines
+7,Meats
+7,Personal care
+7,Pet supplies
+7,Players and electronics
+7,Poultry
+7,Prepared foods
+7,Produce
+7,School and office supplies
+7,Seafood
+8,Automotive
+8,Baby care
+8,Beauty
+8,Beverages
+8,Books
+8,Bread/bakery
+8,Celebration
+8,Cleaning
+8,Dairy
+8,Deli
+8,Eggs
+8,Frozen foods
+8,Grocery i
+8,Grocery ii
+8,Hardware
+8,Home and kitchen i
+8,Home and kitchen ii
+8,Home appliances
+8,Home care
+8,Ladieswear
+8,Lawn and garden
+8,Lingerie
+8,"Liquor,wine,beer"
+8,Magazines
+8,Meats
+8,Personal care
+8,Pet supplies
+8,Players and electronics
+8,Poultry
+8,Prepared foods
+8,Produce
+8,School and office supplies
+8,Seafood
+9,Automotive
+9,Baby care
+9,Beauty
+9,Beverages
+9,Bread/bakery
+9,Celebration
+9,Cleaning
+9,Dairy
+9,Deli
+9,Eggs
+9,Frozen foods
+9,Grocery i
+9,Grocery ii
+9,Hardware
+9,Home and kitchen i
+9,Home and kitchen ii
+9,Home appliances
+9,Home care
+9,Ladieswear
+9,Lawn and garden
+9,Lingerie
+9,"Liquor,wine,beer"
+9,Magazines
+9,Meats
+9,Personal care
+9,Pet supplies
+9,Players and electronics
+9,Poultry
+9,Prepared foods
+9,Produce
+9,School and office supplies
+9,Seafood
+10,Automotive
+10,Beauty
+10,Beverages
+10,Bread/bakery
+10,Celebration
+10,Cleaning
+10,Dairy
+10,Deli
+10,Eggs
+10,Frozen foods
+10,Grocery i
+10,Grocery ii
+10,Hardware
+10,Home and kitchen i
+10,Home and kitchen ii
+10,Home appliances
+10,Home care
+10,Ladieswear
+10,Lingerie
+10,"Liquor,wine,beer"
+10,Magazines
+10,Meats
+10,Personal care
+10,Pet supplies
+10,Players and electronics
+10,Poultry
+10,Prepared foods
+10,Produce
+10,School and office supplies
+10,Seafood
+11,Automotive
+11,Baby care
+11,Beauty
+11,Beverages
+11,Bread/bakery
+11,Celebration
+11,Cleaning
+11,Dairy
+11,Deli
+11,Eggs
+11,Frozen foods
+11,Grocery i
+11,Grocery ii
+11,Hardware
+11,Home and kitchen i
+11,Home and kitchen ii
+11,Home appliances
+11,Home care
+11,Ladieswear
+11,Lawn and garden
+11,Lingerie
+11,"Liquor,wine,beer"
+11,Magazines
+11,Meats
+11,Personal care
+11,Pet supplies
+11,Players and electronics
+11,Poultry
+11,Prepared foods
+11,Produce
+11,School and office supplies
+11,Seafood
+12,Automotive
+12,Beauty
+12,Beverages
+12,Bread/bakery
+12,Celebration
+12,Cleaning
+12,Dairy
+12,Deli
+12,Eggs
+12,Frozen foods
+12,Grocery i
+12,Grocery ii
+12,Hardware
+12,Home and kitchen i
+12,Home and kitchen ii
+12,Home appliances
+12,Home care
+12,Ladieswear
+12,Lingerie
+12,"Liquor,wine,beer"
+12,Magazines
+12,Meats
+12,Personal care
+12,Pet supplies
+12,Players and electronics
+12,Poultry
+12,Prepared foods
+12,Produce
+12,School and office supplies
+12,Seafood
+13,Automotive
+13,Beauty
+13,Beverages
+13,Bread/bakery
+13,Celebration
+13,Cleaning
+13,Dairy
+13,Deli
+13,Eggs
+13,Frozen foods
+13,Grocery i
+13,Grocery ii
+13,Hardware
+13,Home and kitchen i
+13,Home and kitchen ii
+13,Home appliances
+13,Home care
+13,Ladieswear
+13,Lingerie
+13,"Liquor,wine,beer"
+13,Magazines
+13,Meats
+13,Personal care
+13,Pet supplies
+13,Players and electronics
+13,Poultry
+13,Prepared foods
+13,Produce
+13,School and office supplies
+13,Seafood
+14,Automotive
+14,Beauty
+14,Beverages
+14,Bread/bakery
+14,Celebration
+14,Cleaning
+14,Dairy
+14,Deli
+14,Eggs
+14,Frozen foods
+14,Grocery i
+14,Grocery ii
+14,Hardware
+14,Home and kitchen i
+14,Home and kitchen ii
+14,Home appliances
+14,Home care
+14,Ladieswear
+14,Lingerie
+14,"Liquor,wine,beer"
+14,Magazines
+14,Meats
+14,Personal care
+14,Pet supplies
+14,Players and electronics
+14,Poultry
+14,Prepared foods
+14,Produce
+14,School and office supplies
+14,Seafood
+15,Automotive
+15,Baby care
+15,Beauty
+15,Beverages
+15,Bread/bakery
+15,Celebration
+15,Cleaning
+15,Dairy
+15,Deli
+15,Eggs
+15,Frozen foods
+15,Grocery i
+15,Grocery ii
+15,Hardware
+15,Home and kitchen i
+15,Home and kitchen ii
+15,Home appliances
+15,Home care
+15,Ladieswear
+15,Lingerie
+15,"Liquor,wine,beer"
+15,Magazines
+15,Meats
+15,Personal care
+15,Pet supplies
+15,Players and electronics
+15,Poultry
+15,Prepared foods
+15,Produce
+15,School and office supplies
+15,Seafood
+16,Automotive
+16,Baby care
+16,Beauty
+16,Beverages
+16,Bread/bakery
+16,Celebration
+16,Cleaning
+16,Dairy
+16,Deli
+16,Eggs
+16,Frozen foods
+16,Grocery i
+16,Grocery ii
+16,Hardware
+16,Home and kitchen i
+16,Home and kitchen ii
+16,Home appliances
+16,Home care
+16,Lingerie
+16,"Liquor,wine,beer"
+16,Magazines
+16,Meats
+16,Personal care
+16,Pet supplies
+16,Players and electronics
+16,Poultry
+16,Prepared foods
+16,Produce
+16,Seafood
+17,Automotive
+17,Baby care
+17,Beauty
+17,Beverages
+17,Bread/bakery
+17,Celebration
+17,Cleaning
+17,Dairy
+17,Deli
+17,Eggs
+17,Frozen foods
+17,Grocery i
+17,Grocery ii
+17,Hardware
+17,Home and kitchen i
+17,Home and kitchen ii
+17,Home appliances
+17,Home care
+17,Ladieswear
+17,Lingerie
+17,"Liquor,wine,beer"
+17,Magazines
+17,Meats
+17,Personal care
+17,Pet supplies
+17,Players and electronics
+17,Poultry
+17,Prepared foods
+17,Produce
+17,School and office supplies
+17,Seafood
+18,Automotive
+18,Baby care
+18,Beauty
+18,Beverages
+18,Bread/bakery
+18,Celebration
+18,Cleaning
+18,Dairy
+18,Deli
+18,Eggs
+18,Frozen foods
+18,Grocery i
+18,Grocery ii
+18,Hardware
+18,Home and kitchen i
+18,Home and kitchen ii
+18,Home appliances
+18,Home care
+18,Ladieswear
+18,Lawn and garden
+18,Lingerie
+18,"Liquor,wine,beer"
+18,Magazines
+18,Meats
+18,Personal care
+18,Pet supplies
+18,Players and electronics
+18,Poultry
+18,Prepared foods
+18,Produce
+18,School and office supplies
+18,Seafood
+19,Automotive
+19,Baby care
+19,Beauty
+19,Beverages
+19,Bread/bakery
+19,Celebration
+19,Cleaning
+19,Dairy
+19,Deli
+19,Eggs
+19,Frozen foods
+19,Grocery i
+19,Grocery ii
+19,Hardware
+19,Home and kitchen i
+19,Home and kitchen ii
+19,Home appliances
+19,Home care
+19,Ladieswear
+19,Lingerie
+19,"Liquor,wine,beer"
+19,Magazines
+19,Meats
+19,Personal care
+19,Pet supplies
+19,Players and electronics
+19,Poultry
+19,Prepared foods
+19,Produce
+19,School and office supplies
+19,Seafood
+20,Automotive
+20,Baby care
+20,Beauty
+20,Beverages
+20,Bread/bakery
+20,Celebration
+20,Cleaning
+20,Dairy
+20,Deli
+20,Eggs
+20,Frozen foods
+20,Grocery i
+20,Grocery ii
+20,Hardware
+20,Home and kitchen i
+20,Home and kitchen ii
+20,Home appliances
+20,Home care
+20,Ladieswear
+20,Lawn and garden
+20,Lingerie
+20,"Liquor,wine,beer"
+20,Magazines
+20,Meats
+20,Personal care
+20,Pet supplies
+20,Players and electronics
+20,Poultry
+20,Prepared foods
+20,Produce
+20,School and office supplies
+20,Seafood
+21,Automotive
+21,Baby care
+21,Beauty
+21,Beverages
+21,Bread/bakery
+21,Celebration
+21,Cleaning
+21,Dairy
+21,Deli
+21,Eggs
+21,Frozen foods
+21,Grocery i
+21,Grocery ii
+21,Hardware
+21,Home and kitchen i
+21,Home and kitchen ii
+21,Home appliances
+21,Home care
+21,Ladieswear
+21,Lawn and garden
+21,Lingerie
+21,"Liquor,wine,beer"
+21,Magazines
+21,Meats
+21,Personal care
+21,Pet supplies
+21,Players and electronics
+21,Poultry
+21,Prepared foods
+21,Produce
+21,School and office supplies
+21,Seafood
+22,Automotive
+22,Baby care
+22,Beauty
+22,Beverages
+22,Bread/bakery
+22,Celebration
+22,Cleaning
+22,Dairy
+22,Deli
+22,Eggs
+22,Frozen foods
+22,Grocery i
+22,Grocery ii
+22,Hardware
+22,Home and kitchen i
+22,Home and kitchen ii
+22,Home appliances
+22,Home care
+22,Ladieswear
+22,Lingerie
+22,"Liquor,wine,beer"
+22,Magazines
+22,Meats
+22,Personal care
+22,Pet supplies
+22,Players and electronics
+22,Poultry
+22,Prepared foods
+22,Produce
+22,School and office supplies
+22,Seafood
+23,Automotive
+23,Beauty
+23,Beverages
+23,Books
+23,Bread/bakery
+23,Celebration
+23,Cleaning
+23,Dairy
+23,Deli
+23,Eggs
+23,Frozen foods
+23,Grocery i
+23,Grocery ii
+23,Hardware
+23,Home and kitchen i
+23,Home and kitchen ii
+23,Home appliances
+23,Home care
+23,Ladieswear
+23,Lawn and garden
+23,Lingerie
+23,"Liquor,wine,beer"
+23,Magazines
+23,Meats
+23,Personal care
+23,Pet supplies
+23,Players and electronics
+23,Poultry
+23,Prepared foods
+23,Produce
+23,Seafood
+24,Automotive
+24,Baby care
+24,Beauty
+24,Beverages
+24,Books
+24,Bread/bakery
+24,Celebration
+24,Cleaning
+24,Dairy
+24,Deli
+24,Eggs
+24,Frozen foods
+24,Grocery i
+24,Grocery ii
+24,Hardware
+24,Home and kitchen i
+24,Home and kitchen ii
+24,Home appliances
+24,Home care
+24,Ladieswear
+24,Lawn and garden
+24,Lingerie
+24,"Liquor,wine,beer"
+24,Magazines
+24,Meats
+24,Personal care
+24,Pet supplies
+24,Players and electronics
+24,Poultry
+24,Prepared foods
+24,Produce
+24,Seafood
+25,Automotive
+25,Baby care
+25,Beauty
+25,Beverages
+25,Bread/bakery
+25,Celebration
+25,Cleaning
+25,Dairy
+25,Deli
+25,Eggs
+25,Frozen foods
+25,Grocery i
+25,Grocery ii
+25,Hardware
+25,Home and kitchen i
+25,Home and kitchen ii
+25,Home appliances
+25,Home care
+25,Lawn and garden
+25,Lingerie
+25,"Liquor,wine,beer"
+25,Magazines
+25,Meats
+25,Personal care
+25,Pet supplies
+25,Players and electronics
+25,Poultry
+25,Prepared foods
+25,Produce
+25,School and office supplies
+25,Seafood
+26,Automotive
+26,Beauty
+26,Beverages
+26,Bread/bakery
+26,Celebration
+26,Cleaning
+26,Dairy
+26,Deli
+26,Eggs
+26,Frozen foods
+26,Grocery i
+26,Grocery ii
+26,Hardware
+26,Home and kitchen i
+26,Home and kitchen ii
+26,Home appliances
+26,Home care
+26,Ladieswear
+26,Lawn and garden
+26,Lingerie
+26,"Liquor,wine,beer"
+26,Magazines
+26,Meats
+26,Personal care
+26,Pet supplies
+26,Players and electronics
+26,Poultry
+26,Prepared foods
+26,Produce
+26,School and office supplies
+26,Seafood
+27,Automotive
+27,Baby care
+27,Beauty
+27,Beverages
+27,Books
+27,Bread/bakery
+27,Celebration
+27,Cleaning
+27,Dairy
+27,Deli
+27,Eggs
+27,Frozen foods
+27,Grocery i
+27,Grocery ii
+27,Hardware
+27,Home and kitchen i
+27,Home and kitchen ii
+27,Home appliances
+27,Home care
+27,Ladieswear
+27,Lawn and garden
+27,Lingerie
+27,"Liquor,wine,beer"
+27,Magazines
+27,Meats
+27,Personal care
+27,Pet supplies
+27,Players and electronics
+27,Poultry
+27,Prepared foods
+27,Produce
+27,School and office supplies
+27,Seafood
+28,Automotive
+28,Baby care
+28,Beauty
+28,Beverages
+28,Bread/bakery
+28,Celebration
+28,Cleaning
+28,Dairy
+28,Deli
+28,Eggs
+28,Frozen foods
+28,Grocery i
+28,Grocery ii
+28,Hardware
+28,Home and kitchen i
+28,Home and kitchen ii
+28,Home appliances
+28,Home care
+28,Lawn and garden
+28,Lingerie
+28,"Liquor,wine,beer"
+28,Magazines
+28,Meats
+28,Personal care
+28,Pet supplies
+28,Players and electronics
+28,Poultry
+28,Prepared foods
+28,Produce
+28,School and office supplies
+28,Seafood
+29,Automotive
+29,Baby care
+29,Beauty
+29,Beverages
+29,Bread/bakery
+29,Celebration
+29,Cleaning
+29,Dairy
+29,Deli
+29,Eggs
+29,Frozen foods
+29,Grocery i
+29,Grocery ii
+29,Hardware
+29,Home and kitchen i
+29,Home and kitchen ii
+29,Home appliances
+29,Home care
+29,Lawn and garden
+29,Lingerie
+29,"Liquor,wine,beer"
+29,Magazines
+29,Meats
+29,Personal care
+29,Pet supplies
+29,Players and electronics
+29,Poultry
+29,Prepared foods
+29,Produce
+29,School and office supplies
+29,Seafood
+30,Automotive
+30,Baby care
+30,Beauty
+30,Beverages
+30,Bread/bakery
+30,Celebration
+30,Cleaning
+30,Dairy
+30,Deli
+30,Eggs
+30,Frozen foods
+30,Grocery i
+30,Grocery ii
+30,Hardware
+30,Home and kitchen i
+30,Home and kitchen ii
+30,Home appliances
+30,Home care
+30,Ladieswear
+30,Lingerie
+30,"Liquor,wine,beer"
+30,Magazines
+30,Meats
+30,Personal care
+30,Pet supplies
+30,Players and electronics
+30,Poultry
+30,Prepared foods
+30,Produce
+30,School and office supplies
+30,Seafood
+31,Automotive
+31,Baby care
+31,Beauty
+31,Beverages
+31,Bread/bakery
+31,Celebration
+31,Cleaning
+31,Dairy
+31,Deli
+31,Eggs
+31,Frozen foods
+31,Grocery i
+31,Grocery ii
+31,Hardware
+31,Home and kitchen i
+31,Home and kitchen ii
+31,Home appliances
+31,Home care
+31,Ladieswear
+31,Lawn and garden
+31,Lingerie
+31,"Liquor,wine,beer"
+31,Magazines
+31,Meats
+31,Personal care
+31,Pet supplies
+31,Players and electronics
+31,Poultry
+31,Prepared foods
+31,Produce
+31,School and office supplies
+31,Seafood
+32,Automotive
+32,Beauty
+32,Beverages
+32,Bread/bakery
+32,Celebration
+32,Cleaning
+32,Dairy
+32,Deli
+32,Eggs
+32,Frozen foods
+32,Grocery i
+32,Grocery ii
+32,Hardware
+32,Home and kitchen i
+32,Home and kitchen ii
+32,Home appliances
+32,Home care
+32,Lingerie
+32,"Liquor,wine,beer"
+32,Magazines
+32,Meats
+32,Personal care
+32,Pet supplies
+32,Players and electronics
+32,Poultry
+32,Prepared foods
+32,Produce
+32,Seafood
+33,Automotive
+33,Beauty
+33,Beverages
+33,Bread/bakery
+33,Celebration
+33,Cleaning
+33,Dairy
+33,Deli
+33,Eggs
+33,Frozen foods
+33,Grocery i
+33,Grocery ii
+33,Hardware
+33,Home and kitchen i
+33,Home and kitchen ii
+33,Home appliances
+33,Home care
+33,Lingerie
+33,"Liquor,wine,beer"
+33,Magazines
+33,Meats
+33,Personal care
+33,Pet supplies
+33,Players and electronics
+33,Poultry
+33,Prepared foods
+33,Produce
+33,Seafood
+34,Automotive
+34,Baby care
+34,Beauty
+34,Beverages
+34,Bread/bakery
+34,Celebration
+34,Cleaning
+34,Dairy
+34,Deli
+34,Eggs
+34,Frozen foods
+34,Grocery i
+34,Grocery ii
+34,Hardware
+34,Home and kitchen i
+34,Home and kitchen ii
+34,Home appliances
+34,Home care
+34,Ladieswear
+34,Lawn and garden
+34,Lingerie
+34,"Liquor,wine,beer"
+34,Magazines
+34,Meats
+34,Personal care
+34,Pet supplies
+34,Players and electronics
+34,Poultry
+34,Prepared foods
+34,Produce
+34,School and office supplies
+34,Seafood
+35,Automotive
+35,Baby care
+35,Beauty
+35,Beverages
+35,Bread/bakery
+35,Celebration
+35,Cleaning
+35,Dairy
+35,Deli
+35,Eggs
+35,Frozen foods
+35,Grocery i
+35,Grocery ii
+35,Hardware
+35,Home and kitchen i
+35,Home and kitchen ii
+35,Home appliances
+35,Home care
+35,Lingerie
+35,"Liquor,wine,beer"
+35,Magazines
+35,Meats
+35,Personal care
+35,Pet supplies
+35,Players and electronics
+35,Poultry
+35,Prepared foods
+35,Produce
+35,School and office supplies
+35,Seafood
+36,Automotive
+36,Baby care
+36,Beauty
+36,Beverages
+36,Bread/bakery
+36,Celebration
+36,Cleaning
+36,Dairy
+36,Deli
+36,Eggs
+36,Frozen foods
+36,Grocery i
+36,Grocery ii
+36,Hardware
+36,Home and kitchen i
+36,Home and kitchen ii
+36,Home appliances
+36,Home care
+36,Lawn and garden
+36,Lingerie
+36,"Liquor,wine,beer"
+36,Magazines
+36,Meats
+36,Personal care
+36,Pet supplies
+36,Players and electronics
+36,Poultry
+36,Prepared foods
+36,Produce
+36,School and office supplies
+36,Seafood
+37,Automotive
+37,Beauty
+37,Beverages
+37,Bread/bakery
+37,Celebration
+37,Cleaning
+37,Dairy
+37,Deli
+37,Eggs
+37,Frozen foods
+37,Grocery i
+37,Grocery ii
+37,Hardware
+37,Home and kitchen i
+37,Home and kitchen ii
+37,Home appliances
+37,Home care
+37,Ladieswear
+37,Lawn and garden
+37,Lingerie
+37,"Liquor,wine,beer"
+37,Magazines
+37,Meats
+37,Personal care
+37,Pet supplies
+37,Players and electronics
+37,Poultry
+37,Prepared foods
+37,Produce
+37,School and office supplies
+37,Seafood
+38,Automotive
+38,Beauty
+38,Beverages
+38,Books
+38,Bread/bakery
+38,Celebration
+38,Cleaning
+38,Dairy
+38,Deli
+38,Eggs
+38,Frozen foods
+38,Grocery i
+38,Grocery ii
+38,Hardware
+38,Home and kitchen i
+38,Home and kitchen ii
+38,Home appliances
+38,Home care
+38,Ladieswear
+38,Lawn and garden
+38,Lingerie
+38,"Liquor,wine,beer"
+38,Magazines
+38,Meats
+38,Personal care
+38,Pet supplies
+38,Players and electronics
+38,Poultry
+38,Prepared foods
+38,Produce
+38,School and office supplies
+38,Seafood
+39,Automotive
+39,Baby care
+39,Beauty
+39,Beverages
+39,Bread/bakery
+39,Celebration
+39,Cleaning
+39,Dairy
+39,Deli
+39,Eggs
+39,Frozen foods
+39,Grocery i
+39,Grocery ii
+39,Hardware
+39,Home and kitchen i
+39,Home and kitchen ii
+39,Home appliances
+39,Home care
+39,Ladieswear
+39,Lawn and garden
+39,Lingerie
+39,"Liquor,wine,beer"
+39,Magazines
+39,Meats
+39,Personal care
+39,Pet supplies
+39,Players and electronics
+39,Poultry
+39,Prepared foods
+39,Produce
+39,School and office supplies
+39,Seafood
+40,Automotive
+40,Baby care
+40,Beauty
+40,Beverages
+40,Bread/bakery
+40,Celebration
+40,Cleaning
+40,Dairy
+40,Deli
+40,Eggs
+40,Frozen foods
+40,Grocery i
+40,Grocery ii
+40,Hardware
+40,Home and kitchen i
+40,Home and kitchen ii
+40,Home appliances
+40,Home care
+40,Lawn and garden
+40,Lingerie
+40,"Liquor,wine,beer"
+40,Magazines
+40,Meats
+40,Personal care
+40,Pet supplies
+40,Players and electronics
+40,Poultry
+40,Prepared foods
+40,Produce
+40,Seafood
+41,Automotive
+41,Baby care
+41,Beauty
+41,Beverages
+41,Bread/bakery
+41,Celebration
+41,Cleaning
+41,Dairy
+41,Deli
+41,Eggs
+41,Frozen foods
+41,Grocery i
+41,Grocery ii
+41,Hardware
+41,Home and kitchen i
+41,Home and kitchen ii
+41,Home appliances
+41,Home care
+41,Ladieswear
+41,Lawn and garden
+41,Lingerie
+41,"Liquor,wine,beer"
+41,Magazines
+41,Meats
+41,Personal care
+41,Pet supplies
+41,Players and electronics
+41,Poultry
+41,Prepared foods
+41,Produce
+41,School and office supplies
+41,Seafood
+42,Automotive
+42,Beauty
+42,Beverages
+42,Bread/bakery
+42,Celebration
+42,Cleaning
+42,Dairy
+42,Deli
+42,Eggs
+42,Frozen foods
+42,Grocery i
+42,Grocery ii
+42,Hardware
+42,Home and kitchen i
+42,Home and kitchen ii
+42,Home appliances
+42,Home care
+42,Ladieswear
+42,Lawn and garden
+42,Lingerie
+42,"Liquor,wine,beer"
+42,Magazines
+42,Meats
+42,Personal care
+42,Pet supplies
+42,Players and electronics
+42,Poultry
+42,Prepared foods
+42,Produce
+42,School and office supplies
+42,Seafood
+43,Automotive
+43,Baby care
+43,Beauty
+43,Beverages
+43,Bread/bakery
+43,Celebration
+43,Cleaning
+43,Dairy
+43,Deli
+43,Eggs
+43,Frozen foods
+43,Grocery i
+43,Grocery ii
+43,Hardware
+43,Home and kitchen i
+43,Home and kitchen ii
+43,Home appliances
+43,Home care
+43,Lawn and garden
+43,Lingerie
+43,"Liquor,wine,beer"
+43,Magazines
+43,Meats
+43,Personal care
+43,Pet supplies
+43,Players and electronics
+43,Poultry
+43,Prepared foods
+43,Produce
+43,School and office supplies
+43,Seafood
+44,Automotive
+44,Beauty
+44,Beverages
+44,Books
+44,Bread/bakery
+44,Celebration
+44,Cleaning
+44,Dairy
+44,Deli
+44,Eggs
+44,Frozen foods
+44,Grocery i
+44,Grocery ii
+44,Hardware
+44,Home and kitchen i
+44,Home and kitchen ii
+44,Home appliances
+44,Home care
+44,Ladieswear
+44,Lawn and garden
+44,Lingerie
+44,"Liquor,wine,beer"
+44,Magazines
+44,Meats
+44,Personal care
+44,Pet supplies
+44,Players and electronics
+44,Poultry
+44,Prepared foods
+44,Produce
+44,School and office supplies
+44,Seafood
+45,Automotive
+45,Beauty
+45,Beverages
+45,Books
+45,Bread/bakery
+45,Celebration
+45,Cleaning
+45,Dairy
+45,Deli
+45,Eggs
+45,Frozen foods
+45,Grocery i
+45,Grocery ii
+45,Hardware
+45,Home and kitchen i
+45,Home and kitchen ii
+45,Home appliances
+45,Home care
+45,Ladieswear
+45,Lawn and garden
+45,Lingerie
+45,"Liquor,wine,beer"
+45,Magazines
+45,Meats
+45,Personal care
+45,Pet supplies
+45,Players and electronics
+45,Poultry
+45,Prepared foods
+45,Produce
+45,School and office supplies
+45,Seafood
+46,Automotive
+46,Beauty
+46,Beverages
+46,Books
+46,Bread/bakery
+46,Celebration
+46,Cleaning
+46,Dairy
+46,Deli
+46,Eggs
+46,Frozen foods
+46,Grocery i
+46,Grocery ii
+46,Hardware
+46,Home and kitchen i
+46,Home and kitchen ii
+46,Home appliances
+46,Home care
+46,Ladieswear
+46,Lawn and garden
+46,Lingerie
+46,"Liquor,wine,beer"
+46,Magazines
+46,Meats
+46,Personal care
+46,Pet supplies
+46,Players and electronics
+46,Poultry
+46,Prepared foods
+46,Produce
+46,School and office supplies
+46,Seafood
+47,Automotive
+47,Beauty
+47,Beverages
+47,Books
+47,Bread/bakery
+47,Celebration
+47,Cleaning
+47,Dairy
+47,Deli
+47,Eggs
+47,Frozen foods
+47,Grocery i
+47,Grocery ii
+47,Hardware
+47,Home and kitchen i
+47,Home and kitchen ii
+47,Home appliances
+47,Home care
+47,Ladieswear
+47,Lawn and garden
+47,Lingerie
+47,"Liquor,wine,beer"
+47,Magazines
+47,Meats
+47,Personal care
+47,Pet supplies
+47,Players and electronics
+47,Poultry
+47,Prepared foods
+47,Produce
+47,School and office supplies
+47,Seafood
+48,Automotive
+48,Beauty
+48,Beverages
+48,Books
+48,Bread/bakery
+48,Celebration
+48,Cleaning
+48,Dairy
+48,Deli
+48,Eggs
+48,Frozen foods
+48,Grocery i
+48,Grocery ii
+48,Hardware
+48,Home and kitchen i
+48,Home and kitchen ii
+48,Home appliances
+48,Home care
+48,Ladieswear
+48,Lawn and garden
+48,Lingerie
+48,"Liquor,wine,beer"
+48,Magazines
+48,Meats
+48,Personal care
+48,Pet supplies
+48,Players and electronics
+48,Poultry
+48,Prepared foods
+48,Produce
+48,School and office supplies
+48,Seafood
+49,Automotive
+49,Beauty
+49,Beverages
+49,Books
+49,Bread/bakery
+49,Celebration
+49,Cleaning
+49,Dairy
+49,Deli
+49,Eggs
+49,Frozen foods
+49,Grocery i
+49,Grocery ii
+49,Hardware
+49,Home and kitchen i
+49,Home and kitchen ii
+49,Home appliances
+49,Home care
+49,Ladieswear
+49,Lawn and garden
+49,Lingerie
+49,"Liquor,wine,beer"
+49,Magazines
+49,Meats
+49,Personal care
+49,Pet supplies
+49,Players and electronics
+49,Poultry
+49,Prepared foods
+49,Produce
+49,School and office supplies
+49,Seafood
+50,Automotive
+50,Beauty
+50,Beverages
+50,Books
+50,Bread/bakery
+50,Celebration
+50,Cleaning
+50,Dairy
+50,Deli
+50,Eggs
+50,Frozen foods
+50,Grocery i
+50,Grocery ii
+50,Hardware
+50,Home and kitchen i
+50,Home and kitchen ii
+50,Home appliances
+50,Home care
+50,Ladieswear
+50,Lawn and garden
+50,Lingerie
+50,"Liquor,wine,beer"
+50,Magazines
+50,Meats
+50,Personal care
+50,Pet supplies
+50,Players and electronics
+50,Poultry
+50,Prepared foods
+50,Produce
+50,School and office supplies
+50,Seafood
+51,Automotive
+51,Beauty
+51,Beverages
+51,Books
+51,Bread/bakery
+51,Celebration
+51,Cleaning
+51,Dairy
+51,Deli
+51,Eggs
+51,Frozen foods
+51,Grocery i
+51,Grocery ii
+51,Hardware
+51,Home and kitchen i
+51,Home and kitchen ii
+51,Home appliances
+51,Home care
+51,Ladieswear
+51,Lawn and garden
+51,Lingerie
+51,"Liquor,wine,beer"
+51,Magazines
+51,Meats
+51,Personal care
+51,Pet supplies
+51,Players and electronics
+51,Poultry
+51,Prepared foods
+51,Produce
+51,School and office supplies
+51,Seafood
+52,Automotive
+52,Beauty
+52,Beverages
+52,Bread/bakery
+52,Celebration
+52,Cleaning
+52,Dairy
+52,Deli
+52,Eggs
+52,Frozen foods
+52,Grocery i
+52,Grocery ii
+52,Hardware
+52,Home and kitchen i
+52,Home and kitchen ii
+52,Home appliances
+52,Home care
+52,Ladieswear
+52,Lawn and garden
+52,Lingerie
+52,"Liquor,wine,beer"
+52,Magazines
+52,Meats
+52,Personal care
+52,Pet supplies
+52,Players and electronics
+52,Poultry
+52,Prepared foods
+52,Produce
+52,School and office supplies
+52,Seafood
+53,Automotive
+53,Baby care
+53,Beauty
+53,Beverages
+53,Bread/bakery
+53,Celebration
+53,Cleaning
+53,Dairy
+53,Deli
+53,Eggs
+53,Frozen foods
+53,Grocery i
+53,Grocery ii
+53,Hardware
+53,Home and kitchen i
+53,Home and kitchen ii
+53,Home appliances
+53,Home care
+53,Ladieswear
+53,Lawn and garden
+53,Lingerie
+53,"Liquor,wine,beer"
+53,Magazines
+53,Meats
+53,Personal care
+53,Pet supplies
+53,Players and electronics
+53,Poultry
+53,Prepared foods
+53,Produce
+53,School and office supplies
+53,Seafood
+54,Automotive
+54,Beauty
+54,Beverages
+54,Bread/bakery
+54,Celebration
+54,Cleaning
+54,Dairy
+54,Deli
+54,Eggs
+54,Frozen foods
+54,Grocery i
+54,Grocery ii
+54,Hardware
+54,Home and kitchen i
+54,Home and kitchen ii
+54,Home appliances
+54,Home care
+54,Lingerie
+54,"Liquor,wine,beer"
+54,Magazines
+54,Meats
+54,Personal care
+54,Pet supplies
+54,Players and electronics
+54,Poultry
+54,Prepared foods
+54,Produce
+54,Seafood

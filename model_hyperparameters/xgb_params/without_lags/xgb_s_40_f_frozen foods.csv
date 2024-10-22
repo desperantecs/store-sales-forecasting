@@ -1,0 +1,10 @@
+parameter,value
+max_depth,3.0
+min_child_weight,3.0
+reg_alpha,0.16195806564402485
+reg_lambda,4.303311639071712
+subsample,0.6430693606718637
+colsample_bytree,0.695262771784972
+gamma,95.94256513730545
+learning_rate,0.365223572501806
+n_estimators,200.0

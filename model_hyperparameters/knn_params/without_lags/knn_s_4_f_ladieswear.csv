@@ -1,0 +1,5 @@
+parameter,value
+n_neighbors,256
+weights,uniform
+p,2
+scaler,robust

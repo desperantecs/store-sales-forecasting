@@ -1,0 +1,8 @@
+parameter,value
+learning_rate,0.04208837580033737
+max_depth,4.0
+reg_lambda,0.46558229866090717
+subsample,0.6312012738722561
+colsample_bylevel,0.19066397272006583
+min_child_samples,73.0
+n_estimators,100.0

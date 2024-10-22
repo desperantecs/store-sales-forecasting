@@ -1,0 +1,15 @@
+model,weight
+w_ridge_without_lags,0.0360578165844209
+w_ridge_with_lags,0.0007276785221059866
+w_lasso_without_lags,0.024244057048528514
+w_lasso_with_lags,0.0029855930736458745
+w_elastic_net_without_lags,0.04868609112416624
+w_elastic_net_with_lags,0.04000807507313205
+w_rf_without_lags,0.00013266155475057643
+w_rf_with_lags,0.3849554506153632
+w_knn_without_lags,0.009868761247891922
+w_knn_with_lags,0.022737479950032977
+w_xgb_without_lags,0.026986860811666808
+w_xgb_with_lags,0.29451751869726106
+w_lgbm_without_lags,0.07338981303421972
+w_lgbm_with_lags,0.03470214266281438

@@ -1,0 +1,8 @@
+Model,RMSLE Loss
+Holt-Winters,0.43131
+Ridge,0.45105
+Random Forest,0.42014
+k-NN,0.4354
+XGBoost,0.43196
+LightGBM,0.4278
+Ensemble,0.39999

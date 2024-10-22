@@ -1,0 +1,5 @@
+parameter,value
+n_neighbors,108
+weights,uniform
+p,2
+scaler,standard

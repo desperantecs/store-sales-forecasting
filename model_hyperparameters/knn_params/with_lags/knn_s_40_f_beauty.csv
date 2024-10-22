@@ -1,0 +1,5 @@
+parameter,value
+n_neighbors,137
+weights,distance
+p,2
+scaler,minmax

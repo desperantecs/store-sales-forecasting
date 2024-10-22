@@ -1,0 +1,11 @@
+parameter,value
+num_leaves,5.0
+max_depth,2.0
+min_child_samples,67.0
+reg_alpha,0.04579077438004246
+reg_lambda,0.6155030016356965
+subsample,0.2500527100499767
+subsample_freq,10.0
+colsample_bytree,0.35903212949719776
+learning_rate,0.08410935989505386
+n_estimators,160.0

@@ -1,0 +1,6 @@
+parameter,value
+units,8
+norm_layer,True
+dropout_rate,0.14822727946907926
+learning_rate,0.6405209106488676
+epochs,14

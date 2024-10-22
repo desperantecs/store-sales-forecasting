@@ -1,0 +1,5 @@
+parameter,value
+n_neighbors,109
+weights,uniform
+p,1
+scaler,minmax

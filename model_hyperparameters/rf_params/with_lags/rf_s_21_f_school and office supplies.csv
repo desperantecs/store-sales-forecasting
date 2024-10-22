@@ -1,0 +1,5 @@
+parameter,value
+min_samples_leaf,17.0
+min_samples_split,55.0
+max_features,0.8794228305052894
+max_depth,21.0

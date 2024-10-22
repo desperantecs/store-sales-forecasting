@@ -1,0 +1,4 @@
+parameter,value
+alpha,0.1162838730492155
+l1_ratio,0.31512959579572
+scaler,minmax

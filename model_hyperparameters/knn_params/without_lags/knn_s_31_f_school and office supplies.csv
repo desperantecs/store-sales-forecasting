@@ -1,0 +1,5 @@
+parameter,value
+n_neighbors,4
+weights,distance
+p,2
+scaler,robust
